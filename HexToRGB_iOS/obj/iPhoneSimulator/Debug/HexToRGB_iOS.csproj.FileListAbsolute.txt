@@ -1,0 +1,16 @@
+C:\Users\cglec\OneDrive\Documents\GitHub\HexToRGB_iOS\HexToRGB_iOS\bin\iPhoneSimulator\Debug\HexToRGB_iOS.exe
+C:\Users\cglec\OneDrive\Documents\GitHub\HexToRGB_iOS\HexToRGB_iOS\bin\iPhoneSimulator\Debug\HexToRGB_iOS.pdb
+C:\Users\cglec\OneDrive\Documents\GitHub\HexToRGB_iOS\HexToRGB_iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\cglec\OneDrive\Documents\GitHub\HexToRGB_iOS\HexToRGB_iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\cglec\OneDrive\Documents\GitHub\HexToRGB_iOS\HexToRGB_iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\cglec\OneDrive\Documents\GitHub\HexToRGB_iOS\HexToRGB_iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\cglec\OneDrive\Documents\GitHub\HexToRGB_iOS\HexToRGB_iOS\obj\iPhoneSimulator\Debug\optimized\Entitlements.plist
+C:\Users\cglec\OneDrive\Documents\GitHub\HexToRGB_iOS\HexToRGB_iOS\obj\iPhoneSimulator\Debug\HexToRGB_iOS.csprojResolveAssemblyReference.cache
+C:\Users\cglec\OneDrive\Documents\GitHub\HexToRGB_iOS\HexToRGB_iOS\obj\iPhoneSimulator\Debug\HexToRGB_iOS.exe
+C:\Users\cglec\OneDrive\Documents\GitHub\HexToRGB_iOS\HexToRGB_iOS\obj\iPhoneSimulator\Debug\HexToRGB_iOS.pdb
+C:\Users\cglec\OneDrive\Documents\GitHub\HexToRGB_iOS\HexToRGB_iOS\obj\iPhoneSimulator\Debug\ibtool\LaunchScreen.nib
+C:\Users\cglec\OneDrive\Documents\GitHub\HexToRGB_iOS\HexToRGB_iOS\obj\iPhoneSimulator\Debug\ibtool\Main.storyboardc\BYZ-38-t0r-view-8bC-Xf-vdC.nib
+C:\Users\cglec\OneDrive\Documents\GitHub\HexToRGB_iOS\HexToRGB_iOS\obj\iPhoneSimulator\Debug\ibtool\Main.storyboardc\Info.plist
+C:\Users\cglec\OneDrive\Documents\GitHub\HexToRGB_iOS\HexToRGB_iOS\obj\iPhoneSimulator\Debug\ibtool\Main.storyboardc\UIViewController-BYZ-38-t0r.nib
+C:\Users\cglec\OneDrive\Documents\GitHub\HexToRGB_iOS\HexToRGB_iOS\obj\iPhoneSimulator\Debug\HexToRGB_iOS.exe.mdb
+C:\Users\cglec\OneDrive\Documents\GitHub\HexToRGB_iOS\HexToRGB_iOS\bin\iPhoneSimulator\Debug\HexToRGB_iOS.exe.mdb
